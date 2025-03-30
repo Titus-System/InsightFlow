@@ -15,6 +15,8 @@ A plataforma oferecerá análises interativas, busca avançada e previsão de te
 ✅ Comparar o desempenho comercial dos estados.  
 ✅ Identificar tendências e oportunidades de mercado com inteligência de dados.  
 
+![VPC](docs/vpc.png)
+
 ## 🚀 Funcionalidades do Produto  
 - **Painel com Gráficos Interativos**: Visualização de exportações e importações por estado.  
 - **Detalhamento por Estado**: Ranking de produtos, evolução histórica e balança comercial.  
@@ -58,9 +60,9 @@ O projeto foi feito seguindo o método Ágil SCRUM, dividindo o trabalho em spri
 ## 📋 Backlog do Produto
 ![Backlog do Produto](docs/backlog_produto.PNG)
 
-## 🎨 Demonstração  
+## 🎨 Protótipo (Figma)  
 
-  
+
 
 ## 📅 Cronograma
 | Sprint            | Prazo      | Status    |
