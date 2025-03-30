@@ -1,0 +1,6 @@
+[submodule "3Semestre-ADS-Frontend"]
+	path = 3Semestre-ADS-Frontend
+	url = https://github.com/Titus-System/3Semestre-ADS-Frontend.git
+[submodule "3Semestre-ADS-Backend"]
+	path = 3Semestre-ADS-Backend
+	url = https://github.com/Titus-System/3Semestre-ADS-Backend.git
