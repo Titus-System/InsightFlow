@@ -55,8 +55,12 @@ A plataforma oferecerá análises interativas, busca avançada e previsão de te
 ## ⚡ Desenvolvimento Ágil
 O projeto foi feito seguindo o método Ágil SCRUM, dividindo o trabalho em sprints de 21 dias, com reuniões diáras, revisões e retrospectivas ao final. Essa abordagem permitiu uma gestão eficiente do projeto, com foco na entrega contínua de valor ao cliente. Ao longo das sprints, a equipe adquiriu e aprimorou habilidades técnicas e interpessoais, promovendo a resolução ágil de desafios e a adaptação a novas demandas.
 
-## 🎨 Design da Interface  
-O design da plataforma será desenvolvido no **Figma**, garantindo uma experiência intuitiva e eficiente para os usuários.  
+## 📋 Backlog do Produto
+![Backlog do Produto](docs/backlog_produto.PNG)
+
+## 🎨 Demonstração  
+
+  
 
 ## 📅 Cronograma
 | Sprint            | Prazo      | Status    |
@@ -66,13 +70,6 @@ O design da plataforma será desenvolvido no **Figma**, garantindo uma experiên
 | Sprint 2          | 28/04/2025 |  Pendente |
 | Sprint 3          | 05/05/2025 |  Pendente |
 | Feira de Soluções | 29/05/2025 | Pendente  |
-
-## 📋 Backlog do Produto
-
-
-## 🔰 Entregas por Sprint
-
-
 
 ## 🥇 Equipe
 
