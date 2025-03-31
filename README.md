@@ -1,7 +1,7 @@
 # InsightFlow
 📦 Plataforma de Comércio Exterior do Brasil  
 
-
+![logo](docs/logo_if_semfundo.png)
 
 ## 📖 Sobre o Projeto  
 Este projeto visa concentrar dados de comércio exterior no Brasil, fornecendo informações essenciais para profissionais de logística e tomada de decisão.  
@@ -61,7 +61,7 @@ O projeto foi feito seguindo o método Ágil SCRUM, dividindo o trabalho em spri
 ![Backlog do Produto](docs/backlog_produto.PNG)
 
 ## 🎨 Protótipo (Figma)  
-
+https://www.figma.com/design/yA0OeKu4rlyvuD8anzKlYH/insightFlow?node-id=0-1&t=Ae5HxVAYWcSI4RzY-1
 
 
 ## 📅 Cronograma
